@@ -1,0 +1,3 @@
+rootProject.name = 'pentacares_4999'
+
+include ':app'
